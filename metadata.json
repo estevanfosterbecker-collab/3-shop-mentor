@@ -1,6 +1,7 @@
+
 {
-  "name": "3 Copy of Shop Mentor - TikTok Shop Success",
-  "description": "Mentoria prática e análise inteligente para criadores dominarem o TikTok Shop.",
+  "name": "Shop Mentor",
+  "description": "Intelligent TikTok and TikTok Shop mentor for creators and sellers focusing on viral growth and sales.",
   "requestFramePermissions": [
     "camera"
   ]
